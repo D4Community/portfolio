@@ -178,4 +178,4 @@ This project is open-sourced under the license mentioned in the [LICENSE](./LICE
 
 ---
 
-Made with ❤️ by **D4 Community**
+Made with ❤️ by [**D4 Community**](https://www.d4community.com)
